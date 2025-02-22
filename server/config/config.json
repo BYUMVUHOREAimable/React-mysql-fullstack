@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "3Nyamiyaga100%",
-    "database": "tutorialDB",
+    "database": "TutorialDB",
     "host": "localhost",
     "dialect": "mysql"
   },
